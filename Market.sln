@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.API", "Market.API\Market.API.csproj", "{9DB32784-610E-4846-B74A-7B33DAFFEA06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Contracts", "Market.Contracts\Market.Contracts.csproj", "{F4EE85D3-830E-4AB5-8573-151F691119CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Market.Application", "Market.Application\Market.Application.csproj", "{3F7B5524-8317-441F-9E9B-BAEDD954E24C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{9DB32784-610E-4846-B74A-7B33DAFFEA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DB32784-610E-4846-B74A-7B33DAFFEA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DB32784-610E-4846-B74A-7B33DAFFEA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EE85D3-830E-4AB5-8573-151F691119CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EE85D3-830E-4AB5-8573-151F691119CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EE85D3-830E-4AB5-8573-151F691119CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EE85D3-830E-4AB5-8573-151F691119CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F7B5524-8317-441F-9E9B-BAEDD954E24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7B5524-8317-441F-9E9B-BAEDD954E24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7B5524-8317-441F-9E9B-BAEDD954E24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7B5524-8317-441F-9E9B-BAEDD954E24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
